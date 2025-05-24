@@ -11,12 +11,6 @@ Data Structures and Algorithms are the backbone of efficient programming. Master
 - Understanding of time and space complexity
 - Confidence in building optimized solutions
 
-# 📈 Goals
-  1.Complete 150+ problems
-  2.Improve speed and accuracy
-  3.Track time and complexity of each solution
-  4.Appear for mock interviews
-
 ## 🗂️ Repository Structure
 
 ```bash
