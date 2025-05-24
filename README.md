@@ -26,3 +26,10 @@ Data Structures and Algorithms are the backbone of efficient programming. Master
 ├── DynamicProgramming/
 ├── SortingSearching/
 └── README.md
+
+## 📈 Goals
+1.Complete 150+ problems
+2.Improve speed and accuracy
+3.Track time and complexity of each solution
+4.Appear for mock interviews
+
